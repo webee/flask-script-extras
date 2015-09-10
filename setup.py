@@ -73,6 +73,7 @@ if __name__ == "__main__":
         include_package_data=True,
 
         classifiers=[
+            'Environment :: Web Environment',
             'Development Status :: 5 - Production/Stable',
             'Intended Audience :: Developers',
             'Natural Language :: English',
@@ -87,6 +88,7 @@ if __name__ == "__main__":
             'Programming Language :: Python :: 3',
             'Programming Language :: Python :: 3.3',
             'Programming Language :: Python :: 3.4',
+            'Topic :: Internet :: WWW/HTTP :: Dynamic Content',
             'Topic :: Software Development :: Libraries :: Python Modules',
         ],
     )
