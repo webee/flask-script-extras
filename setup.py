@@ -67,7 +67,7 @@ if __name__ == "__main__":
                           read('CHANGE_LOG.rst') + '\n\n' +
                           read('AUTHORS.rst')),
         packages=find_packages(exclude=['tests*']),
-        install_requires=['Flask-Script'],
+        install_requires=['Flask-Script', 'Celery'],
         platforms='any',
         zip_safe=False,
         include_package_data=True,
