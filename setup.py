@@ -8,7 +8,7 @@ import re
 from setuptools import setup, find_packages
 
 
-NAME = "flask_script_extras"
+NAME = "Flask-Script-Extras"
 META_PATH = os.path.join("flask_script_extras", "__init__.py")
 
 ###############################################################################
