@@ -5,7 +5,7 @@ import celery
 
 __all__ = ["Celery"]
 
-__version__ = "0.1.2"
+__version__ = "0.1.3"
 __author__ = "webee.yw"
 __license__ = "MIT"
 __description__ = "extras commands to Flask-Script."

@@ -1,7 +1,7 @@
 Credits
 -------
 
-`python_packaging_demo <https://github.com/webee/python-packaging-demo>`_ is written and maintained by `webee.yw <https://github.com/webee>`_.
+`Flask-Script-Extras <https://github.com/webee/flask-script-extras>`_ is written and maintained by `webee.yw <https://github.com/webee>`_.
 
 Contributors
 ------------
